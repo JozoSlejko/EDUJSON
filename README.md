@@ -1,2 +1,0 @@
-# EDUJSON
-JSON Templates
